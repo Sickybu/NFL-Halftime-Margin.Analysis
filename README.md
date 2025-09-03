@@ -12,10 +12,12 @@ Este proyecto analiza la **probabilidad de ganar y de comeback en partidos de la
 - DAX para crear medidas personalizadas
 - Visualizaciones interactivas
 
-## 📸 Vista previa
-![Mapa de calor al medio tiempo](images/Heatmap_HT.png)
-![Gráfica de Barras con el Margen](images/Margen_AVRG.png)
-![Tabla Interactiva](images/Tabla_Interactiva.png)
+## Vista previa del Dashboard
+### Mapa de Calor
+<img src="images/Heatmap_HT.png" width="600">
+
+### Gráfico de Columnas
+<img src="images/Heatmap_HT.png" width="600">
 
 ## 📂 Archivos en este repo
 - `NFL_Margin_Analysis.pbix` → Archivo de Power BI con el dashboard completo.
