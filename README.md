@@ -24,15 +24,16 @@ Este proyecto analiza la **probabilidad de ganar y de comeback en partidos de la
 
 ## Archivos 
 - [[`NFL_Margin_Analysis.pbix`]](https://github.com/Sickybu/NFL-Halftime-Margin.Analysis/blob/main/Estudio%20de%20Probabilidades.pbix) → Archivo de Power BI con el dashboard completo.
-- `NFL_Margin_Analysis.pdf` → Exportación en PDF.
+- [`NFL_Margin_Analysis.pdf`](https://github.com/Sickybu/NFL-Halftime-Margin.Analysis/blob/main/Estudio%20de%20Probabilidades.pdf) → Exportación en PDF.
 - [`images/`](https://github.com/Sickybu/NFL-Halftime-Margin.Analysis/tree/main/images) → Capturas de las visualizaciones.
 
-## 🚀 Cómo usar
+##  ¿Cómo usar?
 1. Descargar el archivo `.pbix`.
 2. Abrir en **Power BI Desktop**.
 3. Explorar el dashboard interactivo.
 
 ---
-👤 Autor: *Tu Nombre*  
-📅 Año: 2025
+David Sicardo Blanco
+
+2025
 
