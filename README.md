@@ -17,9 +17,12 @@ Este proyecto analiza la **probabilidad de ganar y de comeback en partidos de la
 <img src="images/Heatmap_HT.png" width="600">
 
 ### Gráfico de Columnas
-<img src="images/Heatmap_HT.png" width="600">
+<img src="images/Margen_AVRG.png" width="600">
 
-## 📂 Archivos en este repo
+### Tabla Interactiva
+<img src="images/Tabla_Interactiva.png" width="600">
+
+## Archivos 
 - `NFL_Margin_Analysis.pbix` → Archivo de Power BI con el dashboard completo.
 - `NFL_Margin_Analysis.pdf` → Exportación en PDF.
 - `images/` → Capturas de las visualizaciones.
