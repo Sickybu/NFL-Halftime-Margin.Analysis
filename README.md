@@ -13,7 +13,8 @@ Este proyecto analiza la **probabilidad de ganar y de comeback en partidos de la
 - Visualizaciones interactivas
 
 ## 📸 Vista previa
-![Mapa de calor al medio tiempo]
+![Mapa de calor al medio tiempo](images/Heatmap_HT.png)
+
 
 ## 📂 Archivos en este repo
 - `NFL_Margin_Analysis.pbix` → Archivo de Power BI con el dashboard completo.
