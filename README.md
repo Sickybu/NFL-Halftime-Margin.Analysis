@@ -1,15 +1,15 @@
 # NFL Halftime Margin Analysis 
 
-Este proyecto analiza la **probabilidad de ganar y de comeback en partidos de la NFL** en función del margen al medio tiempo.
+## Descripción
+Este proyecto analiza más de 10 temporadas de la NFL para estudiar cómo el margen al medio tiempo influye en la probabilidad de victoria y en la frecuencia de comebacks.  
+El modelo se desarrolló en **Power BI**, utilizando medidas DAX personalizadas y visualizaciones interactivas (mapas de calor, gráficos de columnas y tablas resumen).  
+El objetivo es mostrar patrones ocultos en los datos deportivos y demostrar el uso de técnicas de **Business Intelligence** aplicadas.
 
 ## Objetivos
 - Estimar probabilidades de victoria del equipo líder al descanso.
 - Analizar frecuencia de comebacks según el margen.
 - Construir un dashboard interactivo en Power BI para explorar los datos.
-## Descripción
-Este proyecto analiza más de 10 temporadas de la NFL para estudiar cómo el margen al medio tiempo influye en la probabilidad de victoria y en la frecuencia de comebacks.  
-El modelo se desarrolló en **Power BI**, utilizando medidas DAX personalizadas y visualizaciones interactivas (mapas de calor, gráficos de columnas y tablas resumen).  
-El objetivo es mostrar patrones ocultos en los datos deportivos y demostrar el uso de técnicas de **Business Intelligence** aplicadas.
+
 ## Herramientas
 - Power BI Desktop
 - DAX para crear medidas personalizadas
